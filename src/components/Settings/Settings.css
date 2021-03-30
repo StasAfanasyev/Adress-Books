@@ -1,0 +1,84 @@
+.settings {
+  max-width: 1170px;
+	margin: auto;
+	padding: 0 15px;
+}
+
+.blue {
+  background-color: rgb(67, 67, 194) !important;
+}
+
+.settings-header {
+  color: gray;
+  padding: 15px;
+  font-size: 25px;
+  background-color: white;
+}
+
+.settings-nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 15px;
+  margin-top: 0px;
+  color: gray;
+  font-weight: bold;
+}
+
+.settings-nav div {
+  padding: 10px;
+}
+
+.img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  background-color: red;
+}
+
+.settings-person {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.settings-person-img {
+  display: flex;
+}
+
+.settings-person-img-name {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+  width: 150px;
+}
+
+.btn {
+  background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 0px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button-book-role {
+  width: 220px;
+  margin: 10px;
+}
+
+.button-vacation-role {
+  width: 200px;
+  padding: 10px;
+}
+
+.button-admin-role {
+  width: 70px;
+  padding: 10px;
+}

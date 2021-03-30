@@ -1,0 +1,50 @@
+.card {
+  box-shadow: 0 13px 27px rgba(0,0,0,0.1);
+  margin: 15px;
+  background-color: white;
+}
+.squares {
+  width: 28%;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.your_image {
+  width: 100px;
+  border-radius: 50px;
+  margin: 10px;
+  box-shadow: 0 13px 27px rgba(0,0,0,0.1);
+}
+
+.btn {
+  background-color: #e7e7e7;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 0px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.nameEng {
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nameRus {
+  font-size: 14px;
+  font-weight: bold;
+  color: gray;
+}
+
+.btn-desc {
+  font-weight: bold;
+  padding-top: 20px;
+}

@@ -1,0 +1,5 @@
+.d-flex {
+  max-width: 1170px;
+	margin: auto;
+  display: flex;
+}

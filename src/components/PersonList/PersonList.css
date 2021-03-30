@@ -1,0 +1,32 @@
+.card-wrapper {
+  display: flex;
+  width: 100%;
+  list-style-type: none;
+  padding: 10px;
+}
+
+.card-wrapper_squares {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.container-ul{
+	max-width: 1170px;
+	margin: auto;
+	padding: 0 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.office {
+  padding-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 10px;
+
+}
+
+.profession {
+  font-size: 14px;
+  font-weight: bold;
+}

@@ -1,0 +1,39 @@
+.form-input {
+  margin: 30px;
+  width: 250px;
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-btn {
+  background-color:  rgb(76, 105, 168);
+  border: none;
+  color: white;
+  padding: 10px 100px;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  cursor: pointer;
+  
+}
+
+.container-form {
+  position: absolute;
+  top: 200px;
+  left: 525px;
+  box-shadow: 0 13px 27px rgba(0,0,0,0.1);
+  background-color: white;
+  height: 250px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

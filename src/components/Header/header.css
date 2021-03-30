@@ -1,0 +1,39 @@
+.header {
+	max-width: 1170px;
+	margin: auto;
+	padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center ;
+  background-color: rgb(76, 105, 168);
+  color: white;
+}
+
+.header-nav {
+  display: flex;
+	font-size: 16px;
+	font-weight: bold;
+  color: rgb(223, 223, 223);
+}
+
+.header-nav li {
+  padding: 0 15px;
+}
+
+.nav-person {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-person-text {
+  font-size: 16px;
+	font-weight: bold;
+  color: rgb(223, 223, 223);
+  padding: 10px;
+}
+
+.nav-person-img {
+  width: 40px;
+  border-radius: 50px;
+}
